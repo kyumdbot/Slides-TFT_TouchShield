@@ -1,4 +1,3 @@
 # README
 
-[demo](regift.gif)
-
+![demo](regift.gif)
