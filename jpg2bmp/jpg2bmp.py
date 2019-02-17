@@ -1,7 +1,7 @@
 
 from PIL import Image
 
-names = ["001", "002", "003", "004", "005", "006"]
+names = ["launch", "001", "002", "003", "004", "005", "006"]
 
 
 for name in names:

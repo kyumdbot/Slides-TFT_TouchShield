@@ -58,7 +58,7 @@ void setup(void) {
     tft.setRotation(0);
     tft.fillScreen(ILI9341_WHITE);
     
-    bmpDraw("/001.bmp",0,0);
+    bmpDraw("/launch.bmp",0,0);
     tft.fillScreen(ILI9341_ORANGE);
 
     ts.begin();
