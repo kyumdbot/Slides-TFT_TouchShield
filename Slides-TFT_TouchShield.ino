@@ -35,7 +35,7 @@ Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_RST);
 XPT2046_Touchscreen ts(TS_CS);
 
 char filename_buffer[15];
-int delay_sec = 2400;
+int delay_sec = 2600;
 bool isPause = false;
 
 #define  IMG_NUM  6
